@@ -24,7 +24,7 @@ public class TeleBot extends AbilityBot {
 
     @Override
     public int creatorId() {
-        return 258985362;
+        return 0;
     }
 
     public Ability sayHelloWorld() {
